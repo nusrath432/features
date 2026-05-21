@@ -9,7 +9,7 @@
         "image": "mcr.microsoft.com/devcontainers/base:debian",
         "features": {
             "tflint": {
-                "version": "0.62.1"
+                "version": "0.62.0"
             }
         }
     }
